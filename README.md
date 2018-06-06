@@ -15,6 +15,10 @@ this project is realized with jupyter notebook
 ## Run
 * to run the code, first of all run the jupyter with the "jupyter notebook" command on terminal then open the folder from the jupyter interface and execute the code.
 
+## Notes 
 
+* the mp1 file contains functions to generate the learning database and the test database
+
+* the mp2 file contains some changes to the mp1 file for exercise 6
 
 
